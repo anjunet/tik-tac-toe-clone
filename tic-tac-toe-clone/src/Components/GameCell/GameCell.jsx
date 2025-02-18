@@ -7,7 +7,7 @@ import { ReactComponent as IconO } from "../../assets/svgs/icon-o.svg";
 import { ReactComponent as IconXoutline } from "../../assets/svgs/icon-x-outline.svg";
 import { ReactComponent as IconOoutline } from "../../assets/svgs/icon-o-outline.svg";
 import { ModalContext } from "../../contexts/ModalContext";
-import RoundOverModal from "../Modal/RoundOverModal/RoundOverModal";
+// import RoundOverModal from "../Modal/RoundOverModal/RoundOverModal";
 import { SfxContext } from "../../contexts/SfxContext";
 
 function GameCell({ cellItem, index, isWinningCell }) {
