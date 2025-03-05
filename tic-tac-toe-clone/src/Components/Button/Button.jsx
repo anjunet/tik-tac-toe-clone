@@ -6,3 +6,12 @@ function Button(props) {
 }
 
 export default Button;
+
+// import React from "react";
+// import { ButtonWrapper } from "./Button.styled";
+
+// function Button({ children, ...props }) {
+//   return <ButtonWrapper {...props}>{children}</ButtonWrapper>;
+// }
+
+// export default Button;

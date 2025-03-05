@@ -9,7 +9,7 @@ function Home() {
   const { hoverSfx, clickSfx } = useContext(SfxContext);
   return (
     <Container columnBased>
-      <Title>Tictactoe</Title>
+      <Title>Tic-tac-toe</Title>
       <SubTitle>Play with your friends , Higher score wins!</SubTitle>
       <Button
         onClick={() => {
